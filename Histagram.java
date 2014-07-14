@@ -16,8 +16,8 @@ public class Histagram{
 		////
 		//Giving out passed info
 		System.out.println("Height given: "  + height);
-        System.out.println("sign given: "    + sign);
-        System.out.println("spacing with: "  + spacing);
+        	System.out.println("sign given: "    + sign);
+		System.out.println("spacing with: "  + spacing);
 		//System.out.println("Sign counter = " + rowLength);
 		
 		//Main loop - height times
